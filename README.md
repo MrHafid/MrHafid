@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I am a Flutter & Front End Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
+I am a Flutter Front End Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
 - 👨‍💻 I’m currently working on project [PT. Sanjaya IT Solution & PT. DEDIGO](https://g.page/RUANGDESA?share)
 - 📚 I’m currently learning FrontEnd Framework & Flutter
