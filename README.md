@@ -6,10 +6,10 @@
 <br />
 <img src="/assets/waves.svg" width="100%" height="200">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)(https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&row=1&margin-w=15)
+<br />
+<!-- ![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5) -->
+<!-- <br /> -->
 <a href="https://www.youtube.com/channel/UC0PYJvkVp-Ze0ibWZYUQzDA">
   <img align="left" alt="Achmad Hafid Supriyadi | YouTube" width="24px" src="/assets/youtube.svg"/>
 </a>
@@ -47,3 +47,4 @@ I am a Flutter Front End Enthusiast from Indonesia <img width="21px" src="/asset
 <br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhafid&langs_count=8&count_private=true&layout=compact&theme=algolia"/>
+
