@@ -1,3 +1,4 @@
+<img src="/assets/waves.svg" width="100%" height="150">
 ### Hello World 🌍 I'm [Achmad Hafid Supriyadi!](https://mrhafid.github.io/) 👋
 
 <a href="https://www.youtube.com/channel/UC0PYJvkVp-Ze0ibWZYUQzDA">
