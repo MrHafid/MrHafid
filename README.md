@@ -6,6 +6,8 @@
 <br />
 <img src="/assets/waves.svg" width="100%" height="200">
 
+![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
+
 <a href="https://www.youtube.com/channel/UC0PYJvkVp-Ze0ibWZYUQzDA">
   <img align="left" alt="Achmad Hafid Supriyadi | YouTube" width="24px" src="/assets/youtube.svg"/>
 </a>
