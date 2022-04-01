@@ -4,9 +4,9 @@
   ### Hello World 🌍 I'm <a href="https://mrhafid.github.io/">Achmad Hafid Supriyadi</a> 👋
 </p>
 <br />
-<img src="/assets/waves.svg" width="100%" height="200">
+<!-- <img src="/assets/waves.svg" width="100%" height="200"> -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&row=1&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=mrhafid&theme=flat&row=1&margin-w=15)
 <br />
 <!-- ![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5) -->
 <!-- <br /> -->
