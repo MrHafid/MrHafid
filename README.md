@@ -25,7 +25,7 @@
 
 I am a Flutter Front End Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
-- 👨‍💻 I’m currently working on project [PT. Sanjaya IT Solution & PT. DEDIGO](https://g.page/RUANGDESA?share)
+- 👨‍💻 I’m currently working on project [PT. DEDIGO](https://g.page/DEDIGO?share)
 - 📚 I’m currently learning FrontEnd Framework & Flutter
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhafid&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Hafid's github stats"/>
