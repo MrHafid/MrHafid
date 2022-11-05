@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/channel/UC0PYJvkVp-Ze0ibWZYUQzDA">
   <img align="left" alt="Achmad Hafid Supriyadi | YouTube" width="24px" src="/assets/youtube.svg"/>
 </a>
-<a href="https://twitter.com/SaitamaSensei18">
+<a href="https://twitter.com/mrhafid007">
   <img align="left" alt="Achmad Hafid Supriyadi | Twitter" width="24px" src="/assets/twitter.svg"/>
 </a>
 <a href="https://discord.gg/cNvVWeJJGw">
