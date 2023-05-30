@@ -8,7 +8,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mrhafid&theme=flat&row=1&margin-w=15)
 <br />
-<!-- ![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5) -->
+![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
 <!-- <br /> -->
 <a href="https://www.youtube.com/channel/UC0PYJvkVp-Ze0ibWZYUQzDA">
   <img align="left" alt="Achmad Hafid Supriyadi | YouTube" width="24px" src="/assets/youtube.svg"/>
