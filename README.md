@@ -1,4 +1,4 @@
-[![Hafid's GitHub Banner](./assets/my_banner.png)](https://mrhafaid.my.id)
+[![Hafid's GitHub Banner](./assets/my_banner.png)](https://mrhafid.my.id)
 
 <p align="center">
   ### Hello World 🌍 I'm <a href="https://mrhafid.my.id/">Achmad Hafid Supriyadi</a> 👋
