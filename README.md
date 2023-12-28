@@ -5,6 +5,7 @@
 </p>
 <br />
 <!-- <img src="/assets/waves.svg" width="100%" height="200"> -->
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mrhafid&theme=flat&row=1&margin-w=15)
 <br />
