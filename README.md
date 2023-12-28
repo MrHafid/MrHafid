@@ -23,7 +23,7 @@
 <br />
 <br />
 
-<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align='right' src="/assets/image_ku.gif">
 
 I am a Flutter Front End Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
