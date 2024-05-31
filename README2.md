@@ -43,43 +43,30 @@ Hello! I'm Achmad Hafid Supriyadi, a dedicated Flutter developer with a passion 
 ![Cupertino](https://img.shields.io/badge/Cupertino-333333?style=flat&logo=apple&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4285F4?style=flat&logo=google&logoColor=white)
 
-## 🚀 Projects
-
-### [Project Name](https://github.com/yourusername/project-repo)
-> **Description:** A brief description of the project and its purpose. Highlight key features and technologies used.
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-repo&theme=radical" alt="Project Name">
-</p>
-
-### [Another Project](https://github.com/yourusername/another-project-repo)
-> **Description:** A brief description of the project and its purpose. Highlight key features and technologies used.
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project-repo&theme=radical" alt="Another Project">
-</p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhafid&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Hafid's github stats"/>
 </p>
 
 ## 🏆 Top Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhafid&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourtwitterhandle"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/mrhafid/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/mrhafid007"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:achmadhafid668@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mrhafid.my.id"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ From [Your Name](https://github.com/yourusername)
+  ⭐️ From Achmad Hafid Supriyadi(https://github.com/mrhafid)
 </p>
