@@ -13,6 +13,9 @@
   <em>Flutter Developer | Mobile App Specialist | Tech Enthusiast</em>
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=mrhafid&theme=flat&row=1&margin-w=15)
+<br />
+
 ## 🌟 About Me
 
 Hello! I'm Achmad Hafid Supriyadi, a dedicated Flutter developer with a passion for creating seamless and high-performance mobile applications. I am enthusiastic about new technologies and love turning ideas into reality through code.
