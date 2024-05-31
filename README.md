@@ -21,7 +21,7 @@
 Hello! I'm Achmad Hafid Supriyadi, a dedicated Flutter developer with a passion for creating seamless and high-performance mobile applications. I am enthusiastic about new technologies and love turning ideas into reality through code.
 
 - 🌍 Based in: Indonesia
-- 🔭 Currently working on: PT. Imagine Space Technology || Printsoft
+- 🔭 Currently working on: PT. Imagine Space Technology & Printsoft
 - 🌱 Learning: Advanced state management in Flutter, backend integration
 - 💬 Ask me about: Flutter development, mobile app architecture, state management
 
