@@ -1,4 +1,4 @@
-# Hi there, I'm Achmad Hafid Supriyadi 👋
+
 
 [![Hafid's GitHub Banner](./assets/my_banner.png)](https://mrhafid.my.id)
 
