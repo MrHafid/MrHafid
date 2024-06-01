@@ -71,7 +71,5 @@ Hello! I'm Achmad Hafid Supriyadi, a dedicated Flutter developer with a passion 
 ---
 
 <p align="center">
-  
- ⭐️ From Achmad [Achmad Hafid Supriyadi](https://mrhafid.my.id)
- 
+ ⭐️ From Achmad <a href="https://mrhafid.my.id" style="text-decoration:none;">Achmad Hafid Supriyadi</a>
 </p>
