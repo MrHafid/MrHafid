@@ -62,14 +62,14 @@ Hello! I'm Achmad Hafid Supriyadi, a dedicated Flutter developer with a passion 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mrhafid/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/mrhafid007"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:achmadhafid668@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://mrhafid.my.id"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/mrhafid/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/mrhafid007" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:achmadhafid668@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mrhafid.my.id" target="_blank"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
 
 <p align="center">
- ⭐️ From Achmad <a href="https://mrhafid.my.id" style="text-decoration:none;">Achmad Hafid Supriyadi</a>
+ ⭐️ From Achmad <a href="https://mrhafid.my.id" style="text-decoration:none;" target="_blank">Achmad Hafid Supriyadi</a>
 </p>
