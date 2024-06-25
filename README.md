@@ -49,14 +49,15 @@ Hello! I'm Achmad Hafid Supriyadi, a dedicated Flutter developer with a passion 
 
 ## 📈 GitHub Stats
 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrHafid&&count_private=true&show_icons=true&include_all_commits=true&theme=nord_dark"/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhafid&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Hafid's github stats"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrhafid&theme=nord_dark)
 
 
 ## 🏆 Top Repositories
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhafid&langs_count=8&count_private=true&layout=compact&theme=algolia"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhafid&langs_count=8&count_private=true&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
 
 
 ## 📫 Connect with Me
