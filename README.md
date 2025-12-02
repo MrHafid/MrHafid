@@ -1,6 +1,6 @@
 
 
-[![Hafid's GitHub Banner](./assets/my_banner.png)](https://mrhafid.my.id)
+[![Hafid's GitHub Banner](./assets/my_banner.png)](https://mrhafid.com)
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/MrHafid?label=Follow%20Me&style=social" alt="GitHub followers">
@@ -66,11 +66,11 @@ Hello! I'm Achmad Hafid Supriyadi, a dedicated Flutter developer with a passion 
   <a href="https://www.linkedin.com/in/mrhafid/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/mrhafid007" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:achmadhafid668@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://mrhafid.my.id" target="_blank"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
+  <a href="https://mrhafid.com" target="_blank"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
 
 <p align="center">
- ⭐️ From Achmad <a href="https://mrhafid.my.id" style="text-decoration:none;" target="_blank">Achmad Hafid Supriyadi</a>
+ ⭐️ From Achmad <a href="https://mrhafid.com" style="text-decoration:none;" target="_blank">Achmad Hafid Supriyadi</a>
 </p>
