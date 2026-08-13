@@ -1,143 +1,76 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
-Hey there 👋
+[![Hafid's GitHub Banner](./assets/my_banner.png)](https://mrhafid.com)
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MrHafid?label=Follow%20Me&style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/mrhafid?label=Stars&style=social" alt="GitHub stars">
+  <a href="https://www.linkedin.com/in/mrhafid/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/mrhafid007"><img src="https://img.shields.io/twitter/follow/mrhafid007?style=social" alt="Twitter"></a>
+</p>
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+<p align="center">
+  <em>Flutter Developer | Mobile App Specialist | Tech Enthusiast</em>
+</p>
 
-## 📝 Latest Blog Posts
+![trophy](https://github-profile-trophy.vercel.app/?username=mrhafid&theme=flat&row=1&margin-w=15)
+<br />
 
-<br>
+## 🌟 About Me
 
-<!-- BLOG-POST-LIST:START -->
-- [Blogfolio V3 - Update 2022](https://braydoncoyer.dev/blog/blogfolio-v3-update-2022)
-- [How To Create an Animated Loading Spinner with Tailwind CSS](https://braydoncoyer.dev/blog/how-to-create-an-animated-loading-spinner-with-tailwind-css)
-- [Do Interview Kickstart Courses Live Up to the Cost?](https://braydoncoyer.dev/blog/do-interview-kickstart-courses-live-up-to-the-cost)
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
-<!-- BLOG-POST-LIST:END -->
+Hello! I'm Achmad Hafid Supriyadi, a dedicated Flutter developer with a passion for creating seamless and high-performance mobile applications. I am enthusiastic about new technologies and love turning ideas into reality through code.
 
-<br>
+- 🌍 Based in: Indonesia
+- 🔭 Currently working on: PT. Imagine Space Technology & Printsoft
+- 🌱 Learning: Advanced state management in Flutter, backend integration
+- 💬 Ask me about: Flutter development, mobile app architecture, state management
 
-## 📌 Pinned Repositories
+## 🛠️ Skills
 
-<br>
+### Languages & Frameworks
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Php-FA7343?style=flat&logo=php&logoColor=white)
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
 
-<br>
+### UI/UX Design
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat&logo=material-design&logoColor=white)
+![Cupertino](https://img.shields.io/badge/Cupertino-333333?style=flat&logo=apple&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4285F4?style=flat&logo=google&logoColor=white)
 
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-<br>
+## 📈 GitHub Stats
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrHafid&&count_private=true&show_icons=true&include_all_commits=true&theme=nord_dark"/>
 
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrhafid&theme=nord_dark)
 
-<br>
-<br>
 
-## &#x1f4c8; GitHub Stats
+## 🏆 Top Repositories
 
-<br>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhafid&langs_count=8&count_private=true&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
 
-<br>
-<br>
+## 📫 Connect with Me
 
-## 💼 Skills
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrhafid/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/mrhafid007" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:achmadhafid668@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mrhafid.com" target="_blank"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
+</p>
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+---
 
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
-
-</details>
-
-<br>
-
-## 📣 How about an Office quote before you go?
-
-> Bears, Beets, Battlestar Galactica.
->
-> <p>- Jim Halpert</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+<p align="center">
+ ⭐️ From Achmad <a href="https://mrhafid.com" style="text-decoration:none;" target="_blank">Achmad Hafid Supriyadi</a>
+</p>
