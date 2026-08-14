@@ -1,76 +1,195 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=210&section=header&text=Achmad%20Hafid%20Supriyadi&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Flutter%20Developer%20%C2%B7%20Mobile%20App%20Specialist&descSize=16&descAlignY=52&animation=fadeIn" width="100%" alt="Achmad Hafid Supriyadi">
 
+<div align="center">
 
-[![Hafid's GitHub Banner](./assets/my_banner.png)](https://mrhafid.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=13B9FD&center=true&vCenter=true&width=580&lines=I+build+mobile+apps+that+feel+fast.;Flutter+%C2%B7+Dart+%C2%B7+Native+Android+%26+iOS;Shipping+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="">
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MrHafid?label=Follow%20Me&style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/mrhafid?label=Stars&style=social" alt="GitHub stars">
-  <a href="https://www.linkedin.com/in/mrhafid/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/mrhafid007"><img src="https://img.shields.io/twitter/follow/mrhafid007?style=social" alt="Twitter"></a>
-</p>
+<a href="https://mrhafid.com"><img src="https://img.shields.io/badge/Portfolio-13B9FD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/mrhafid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/mrhafid007"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+<a href="mailto:achmadhafid668@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<p align="center">
-  <em>Flutter Developer | Mobile App Specialist | Tech Enthusiast</em>
-</p>
+<img src="https://komarev.com/ghpvc/?username=mrhafid&label=Visitors&color=13B9FD&style=flat-square" alt="Visitors">
+<a href="https://github.com/mrhafid?tab=followers"><img src="https://img.shields.io/github/followers/MrHafid?label=Followers&style=flat-square&color=13B9FD" alt="Followers"></a>
+<img src="https://img.shields.io/badge/Focus-Flutter-02569B?style=flat-square" alt="Focus">
+<img src="https://img.shields.io/badge/Open%20to-Collab-2ECC71?style=flat-square" alt="Open to collab">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mrhafid&theme=flat&row=1&margin-w=15)
-<br />
+</div>
 
-## 🌟 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,50:13B9FD,100:2ECC71&height=4&section=header" width="100%" alt="">
 
-Hello! I'm Achmad Hafid Supriyadi, a dedicated Flutter developer with a passion for creating seamless and high-performance mobile applications. I am enthusiastic about new technologies and love turning ideas into reality through code.
+## 🎯 &nbsp;Who I am
 
-- 🌍 Based in: Indonesia
-- 🔭 Currently working on: PT. Imagine Space Technology & Printsoft
-- 🌱 Learning: Advanced state management in Flutter, backend integration
-- 💬 Ask me about: Flutter development, mobile app architecture, state management
+> Mobile developer focused on Flutter. I care about apps that launch fast, feel
+> native on both platforms, and stay maintainable six months later.
 
-## 🛠️ Skills
+|  |  |
+|:--|:--|
+| 🏢 **Now** | Building mobile products at **PT. Imagine Space Technology** & **Printsoft** |
+| 🌱 **Learning** | Advanced state management, backend integration |
+| 💬 **Ask me about** | Flutter, mobile architecture, state management, app performance |
+| 📍 **Based in** | Indonesia 🇮🇩 · open to remote collaboration |
+| ⚡ **Fun fact** | The best code is the code I didn't have to write |
 
-### Languages & Frameworks
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Php-FA7343?style=flat&logo=php&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,50:13B9FD,100:2ECC71&height=4&section=header" width="100%" alt="">
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+## 🧰 &nbsp;Stack
 
-### UI/UX Design
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat&logo=material-design&logoColor=white)
-![Cupertino](https://img.shields.io/badge/Cupertino-333333?style=flat&logo=apple&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4285F4?style=flat&logo=google&logoColor=white)
+<div align="center">
 
+**Core**
 
-## 📈 GitHub Stats
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java&theme=dark" height="46" alt="Flutter, Dart, Kotlin, Swift, Java">
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrHafid&&count_private=true&show_icons=true&include_all_commits=true&theme=nord_dark"/>
+**Backend & Data**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrhafid&theme=nord_dark)
+<img src="https://skillicons.dev/icons?i=firebase,php,laravel,mysql,nodejs&theme=dark" height="46" alt="Firebase, PHP, Laravel, MySQL, Node.js">
 
+**Workflow**
 
-## 🏆 Top Repositories
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma,postman&theme=dark" height="46" alt="Git, GitHub, Android Studio, VS Code, Figma, Postman">
 
+<sub>Design side: Material 3 · Cupertino · adaptive & responsive layouts</sub>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhafid&langs_count=8&count_private=true&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,50:13B9FD,100:2ECC71&height=4&section=header" width="100%" alt="">
 
-## 📫 Connect with Me
+## 🚀 &nbsp;Selected work
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mrhafid/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/mrhafid007" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:achmadhafid668@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://mrhafid.com" target="_blank"><img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📦 [my_custom_flutter](https://github.com/mrhafid/my_custom_flutter)
+Reusable Flutter widgets and helpers I pull into every project.
 
-<p align="center">
- ⭐️ From Achmad <a href="https://mrhafid.com" style="text-decoration:none;" target="_blank">Achmad Hafid Supriyadi</a>
-</p>
+`Dart` · `Flutter`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖼️ [image_gallery_saver](https://github.com/mrhafid/image_gallery_saver)
+Save images and video straight to the device gallery, Android & iOS.
+
+`Dart` · `Platform channels`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💧 [liquid_pull_refresh](https://github.com/mrhafid/liquid_pull_refresh)
+Liquid-style pull-to-refresh with a custom animation curve.
+
+`Dart` · `Animation`
+
+</td>
+<td width="50%" valign="top">
+
+### ⏳ [dim_loading_dialog_flutter](https://github.com/mrhafid/dim_loading_dialog_flutter)
+Drop-in dimmed loading dialog — one call, no boilerplate.
+
+`Dart` · `UI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [myrive_login_flutter](https://github.com/mrhafid/myrive_login_flutter)
+Animated Rive login screen that reacts to what you type.
+
+`Dart` · `Rive`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [online-blade-formatter](https://github.com/mrhafid/online-blade-formatter)
+Opinionated Laravel Blade formatter that runs in the browser.
+
+`Vue` · `Laravel`
+
+</td>
+</tr>
+</table>
+
+<div align="center"><a href="https://github.com/mrhafid?tab=repositories">→ all repositories</a></div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,50:13B9FD,100:2ECC71&height=4&section=header" width="100%" alt="">
+
+## 📊 &nbsp;Activity
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrhafid&theme=transparent" alt="Stats">
+<img height="180" src="https://streak-stats.demolab.com/?user=mrhafid&hide_border=true&background=00000000&ring=13B9FD&fire=2ECC71&currStreakLabel=13B9FD&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&stroke=808080" alt="Streak">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrhafid&theme=transparent" alt="Top languages">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrhafid&theme=transparent" alt="Most commit language">
+
+<img src="https://github-trophies.vercel.app/?username=mrhafid&theme=discord&no-frame=true&no-bg=true&column=6&row=1&margin-w=6&margin-h=6" width="98%" alt="Trophies">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhafid&bg_color=00000000&color=808080&line=13B9FD&point=2ECC71&area=true&hide_border=true&hide_title=true" width="98%" alt="Contribution graph">
+
+</div>
+
+<details>
+<summary><b>📈 &nbsp;More numbers — coding habits, commit rhythm, repo mix</b></summary>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrhafid&theme=transparent" alt="Profile details">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrhafid&utcOffset=7&theme=transparent" alt="Productive time">
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrhafid&bg_color=00000000&color=808080&line=2ECC71&point=13B9FD&area=true&hide_border=true&hide_title=true&days=30" alt="Last 30 days">
+
+</div>
+
+</details>
+
+<details>
+<summary><b>🏅 &nbsp;GitHub achievements</b></summary>
+
+<br>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=mrhafid&theme=discord&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="All trophies">
+</div>
+
+</details>
+
+### 🐍 &nbsp;Watch my contributions get eaten
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrHafid/MrHafid/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrHafid/MrHafid/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/MrHafid/MrHafid/output/github-snake.svg" alt="Contribution snake animation" width="98%">
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,50:13B9FD,100:2ECC71&height=4&section=header" width="100%" alt="">
+
+## 💡 &nbsp;Dev quote of the day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote">
+</div>
+
+<br>
+
+<div align="center">
+
+### 🤝 Got a mobile idea that needs building?
+
+<a href="mailto:achmadhafid668@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-13B9FD?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Let's talk"></a>
+<a href="https://mrhafid.com"><img src="https://img.shields.io/badge/See%20my%20work-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="See my work"></a>
+
+<sub>⭐ Thanks for stopping by — <a href="https://mrhafid.com">mrhafid.com</a></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,50:0175C2,100:02569B&height=120&section=footer" width="100%" alt="">
