@@ -122,15 +122,15 @@ Opinionated Laravel Blade formatter that runs in the browser.
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrhafid&theme=github_dark" alt="Stats">
-<img width="49%" src="https://streak-stats.demolab.com/?user=mrhafid&theme=github-dark-blue&border_radius=6&card_width=480" alt="Streak">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrhafid&theme=nord_dark" alt="Stats">
+<img width="49%" src="https://streak-stats.demolab.com/?user=mrhafid&background=2E3440&border=4C566A&stroke=4C566A&ring=13B9FD&fire=2ECC71&currStreakLabel=13B9FD&sideLabels=D8DEE9&dates=A0A8B7&currStreakNum=ECEFF4&sideNums=ECEFF4&border_radius=6" alt="Streak">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrhafid&theme=github_dark" alt="Top languages">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrhafid&theme=github_dark" alt="Most commit language">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrhafid&theme=nord_dark" alt="Top languages">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrhafid&theme=nord_dark" alt="Most commit language">
 
-<img src="https://github-trophies.vercel.app/?username=mrhafid&theme=discord&column=6&row=1&margin-w=6&margin-h=6" width="98%" alt="Trophies">
+<img src="https://github-trophies.vercel.app/?username=mrhafid&theme=nord&column=6&row=1&margin-w=6&margin-h=6" width="98%" alt="Trophies">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhafid&bg_color=0d1117&color=c9d1d9&line=13B9FD&point=2ECC71&area=true&area_color=13B9FD&title_color=13B9FD&radius=6" width="98%" alt="Contribution graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhafid&bg_color=2E3440&color=D8DEE9&line=13B9FD&point=2ECC71&area=true&area_color=13B9FD&title_color=13B9FD&radius=6" width="98%" alt="Contribution graph">
 
 </div>
 
@@ -141,10 +141,10 @@ Opinionated Laravel Blade formatter that runs in the browser.
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrhafid&theme=github_dark" alt="Profile details">
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrhafid&theme=nord_dark" alt="Profile details">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrhafid&utcOffset=7&theme=github_dark" alt="Productive time">
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrhafid&bg_color=0d1117&color=c9d1d9&line=2ECC71&point=13B9FD&area=true&area_color=2ECC71&title_color=2ECC71&radius=6&days=30" alt="Last 30 days">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrhafid&utcOffset=7&theme=nord_dark" alt="Productive time">
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrhafid&bg_color=2E3440&color=D8DEE9&line=2ECC71&point=13B9FD&area=true&area_color=2ECC71&title_color=2ECC71&radius=6&days=30" alt="Last 30 days">
 
 </div>
 
@@ -156,7 +156,7 @@ Opinionated Laravel Blade formatter that runs in the browser.
 <br>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=mrhafid&theme=discord&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="All trophies">
+  <img src="https://github-trophies.vercel.app/?username=mrhafid&theme=nord&column=4&row=2&margin-w=8&margin-h=8" alt="All trophies">
 </div>
 
 </details>
